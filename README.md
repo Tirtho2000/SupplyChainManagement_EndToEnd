@@ -95,5 +95,6 @@ This project demonstrates a complete data flow for supply chain management, star
 🔗 [GitHub](https://github.com/Tirtho2000)
 
 ---
+![image](https://github.com/user-attachments/assets/73cac15a-8ce2-47aa-a935-e239c1d372e9)
 
 
