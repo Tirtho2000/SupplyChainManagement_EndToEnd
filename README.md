@@ -96,5 +96,14 @@ This project demonstrates a complete data flow for supply chain management, star
 
 ---
 ![image](https://github.com/user-attachments/assets/73cac15a-8ce2-47aa-a935-e239c1d372e9)
+![image](https://github.com/user-attachments/assets/bdb846b9-de46-43b1-bca1-9c460f11b329)
+![image](https://github.com/user-attachments/assets/55545e87-ee87-4ed1-9f20-b6d41ba6ba36)
+![image](https://github.com/user-attachments/assets/9d9e4fa3-ef06-47e9-b6b6-4e50b0342c54)
+![image](https://github.com/user-attachments/assets/bb075a1c-1c3c-4b77-8478-6e6a77d4efa2)
+![image](https://github.com/user-attachments/assets/73dffd28-6bee-46fb-b0ba-906c9b5f3b99)
+
+
+
+
 
 
